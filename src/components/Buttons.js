@@ -1,6 +1,6 @@
 import satData from "./satData";
 import React from "react";
-import styles from "../components/styling.css";
+
 
 const Buttons = (props) => {
     return (
